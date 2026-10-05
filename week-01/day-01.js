@@ -14,3 +14,11 @@ console.log(year + 1);        // 2027
 
 let yearText = "2026";
 console.log(yearText + 1);    // 20261
+
+
+
+console.log(5 + "5");
+console.log("5" - 2);
+console.log(typeof null);
+console.log(10 / 3);
+console.log(0.1 + 0.2);
