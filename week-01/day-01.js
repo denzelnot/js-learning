@@ -30,3 +30,10 @@ console.log(0.1 + 0.2);
 let userName ="Денис"
 let age = 49
 console.log(`Меня зовут ${userName}, мне ${age} лет`);
+
+второй вариант:
+
+let userName ="Денис"
+let age = 49
+console.log("Меня зовут " + userName + ",мне " + age+1 + " лет ");
+
