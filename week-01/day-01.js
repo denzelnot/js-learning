@@ -7,3 +7,10 @@ console.log(typeof age);
 let isLearning = true; 
 console.log(isLearning);
 console.log(typeof isLearning);
+
+
+let year = 2026;
+console.log(year + 1);        // 2027
+
+let yearText = "2026";
+console.log(yearText + 1);    // 20261
