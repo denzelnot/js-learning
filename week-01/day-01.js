@@ -33,7 +33,7 @@ console.log(`Меня зовут ${userName}, мне ${age} лет`);
 
 второй вариант:
 
-let userName ="Денис"
+let userNeme ="Денис"
 let age = 49
-console.log("Меня зовут " + userName + ",мне " + age+1 + " лет ");
+console.log("В следующем году мне будет " + (age + 1) + " лет");
 
