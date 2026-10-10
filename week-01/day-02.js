@@ -31,4 +31,11 @@ if (fuel < 10) {
   console.log("Нормально")
 }
 
+Задание 3/2
+
+let ball=100   // оценка
+if ( ball< 50) {console.log("Неуд")}
+else if (ball<70) {console.log("Удов")}
+else if(ball<90) {console.log("Хорошо")}
+else { console.log(`Отлично`)}
 
