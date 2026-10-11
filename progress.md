@@ -115,6 +115,17 @@ if (fuel < 10) {
   console.log("Нормально")
 }
 
+Изучили проценты на приере бака с топливом
+
+let fuel=5
+let tank=50
+let percent = fuel/tank*100
+if (percent <20)  {console.log (`Заправить срочно.`)}
+else if (percent<50) {console.log (`Примерно половина.`)}
+else {console.log (`Достаточно.`)}
+console.log (`Остаток в Баке ${ tank-fuel}`)
+
+Оповещение о необходимости заправки и остаток в баке
 
 - Сделано: ...
 - Застрял: ...
