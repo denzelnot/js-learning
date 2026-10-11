@@ -39,3 +39,15 @@ else if (ball<70) {console.log("Удов")}
 else if(ball<90) {console.log("Хорошо")}
 else { console.log(`Отлично`)}
 
+Задание 3/3
+
+let fuel=5
+let tank=50
+let percent = fuel/tank*100
+if (percent <20)  {console.log (`Заправить срочно.`)}
+else if (percent<50) {console.log (`Примерно половина.`)}
+else {console.log (`Достаточно.`)}
+console.log (`Остаток в Баке ${ tank-fuel}`)
+
+сравнение в процентах остаток топлива в баке.  Оповещение о заправке и выведение строки остатка бензина
+
